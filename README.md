@@ -1,6 +1,6 @@
 # FULL AUTO
 
-Channel : https://t.me/scvps
+Channel : https://whatsapp.com/channel/0029Vaybu7ZHAdNNsUJ9uR1J
 
 you need cloudflare domain pointing to your ip vps [important]
 
